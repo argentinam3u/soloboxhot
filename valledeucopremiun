@@ -2,3 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://radioarg.net/storage/radios/7717/9839/conversions/vinas-lg.webp" group-title="MENDOZA", Radio Viñas
 https://smt-usr-edge02.sensa.com.ar/salida/SMT4/RVD/salida.mpd
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1642153436878712832/f1RT_aEA_400x400.jpg" group-title="RADIOS ARGENTINAS", ESTACION DEL SOL MENDOZA (SOLO AUDIO)
+https://edge-recdirect.masterhost.com.ar/st1/icy/estacion_del_sol_1009/radio.mp3/:8100
+
