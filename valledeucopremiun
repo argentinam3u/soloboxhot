@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://radioarg.net/storage/radios/7717/9839/conversions/vinas-lg.webp" group-title="MENDOZA", Radio Viñas
-https://icecasthd.net/proxy/fmvinas/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7Jw3L3FCtGxSVLFIkPFG6CTfVfT333TsHA&s" group-title="ADULTOS", PLAYBOY TV
+http://138.121.114.91:8000/play/a077/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1642153436878712832/f1RT_aEA_400x400.jpg" group-title="RADIOS ARGENTINAS", ESTACION DEL SOL MENDOZA (SOLO AUDIO)
-https://edge-recdirect.masterhost.com.ar/st1/icy/estacion_del_sol_1009/radio.mp3/:8100
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7Jw3L3FCtGxSVLFIkPFG6CTfVfT333TsHA&s" group-title="ADULTOS", PLAYBOY TV
+http://191.97.111.38:8000/play/a077/index.m3u8
 
