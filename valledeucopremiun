@@ -11,3 +11,7 @@ http://191.97.111.38:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-BRAVO.png" group-title="BUENOS AIRES",Bravo TV - 27.1TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="NOTICIAS NACIONALES", CANAL 26 4K TV ARGENTINA
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
